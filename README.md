@@ -1,23 +1,3 @@
-### 1. GitHub Repository Description (Deskripsi Singkat)
-
-Gunakan kalimat ini di bagian *About/Description* repositori GitHub Anda:
-
-> **"An autonomous end-to-end AI operations hub built with Python, local RAG/AI intelligence, and n8n workflow automation for automated tech trend analysis and instant Telegram alerts. 🚀"**
-
----
-
-### 2. GitHub Topics / Tags
-
-Tambahkan tag berikut di pengaturan repositori GitHub Anda agar mudah ditemukan orang lain:
-`hf26challenge`, `opensource`, `ai`, `python`, `n8n`, `automation`, `rag`, `web-scraping`, `telegram-bot`, `fastapi`, `developer-tools`
-
----
-
-### 3. File `README.md` (Dokumentasi Utama Repositori)
-
-Salin kode Markdown di bawah ini dan buat file bernama `README.md` di root folder repositori Anda (`ai-operations-hub/README.md`):
-
-```markdown
 # 🚀 Autonomous Open-Source AI Operations Hub
 
 > An end-to-end automated system that crawls tech trends, analyzes them using local open-source AI insights, and orchestrates workflows with n8n and Telegram. Built for the **HF26 DEV Challenge**.
