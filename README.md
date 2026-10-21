@@ -1,7 +1,3 @@
-Tentu! Untuk melengkapi repositori GitHub Anda agar terlihat profesional dan siap mendulang *engagement* di DEV Community serta Hacktoberfest, berikut adalah materi lengkap untuk **GitHub Description**, file `README.md`, dan **Tags/Topics**.
-
----
-
 ### 1. GitHub Repository Description (Deskripsi Singkat)
 
 Gunakan kalimat ini di bagian *About/Description* repositori GitHub Anda:
@@ -114,11 +110,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
-
----
-
-Dengan deskripsi, tags, dan `README.md` ini, repositori GitHub Anda akan tampak sangat rapi dan kredibel saat ditautkan di artikel DEV Community Anda!
 
 ```
