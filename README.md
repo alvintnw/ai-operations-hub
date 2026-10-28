@@ -1,10 +1,10 @@
-# 🚀 Autonomous Open-Source AI Operations Hub
+# Autonomous Open-Source AI Operations Hub
 
 > An end-to-end automated system that crawls tech trends, analyzes them using local open-source AI insights, and orchestrates workflows with n8n and Telegram. Built for the **HF26 DEV Challenge**.
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 This project is structured as a clean monorepo combining data scraping, AI-powered analysis, and workflow automation:
 
@@ -25,7 +25,7 @@ ai-operations-hub/
 
 ---
 
-## ⚙️ Core Modules
+## Core Modules
 
 1. **Agentic Web Scraper (`scraper-agent/`)**:
 * Autonomously collects trending articles and tech discussions.
@@ -43,7 +43,7 @@ ai-operations-hub/
 
 ---
 
-## 🛠️ Getting Started & Installation
+## Getting Started & Installation
 
 ### Prerequisites
 
@@ -83,10 +83,10 @@ python rag_engine.py
 
 ---
 
-## 💡 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [suspicious link removed].
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
